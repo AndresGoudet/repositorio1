@@ -1,2 +1,1 @@
-# repositorio1
-Este respositorio es nuevo, del modulo 2 de Henry, vamos a ver qlq
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi pc.
